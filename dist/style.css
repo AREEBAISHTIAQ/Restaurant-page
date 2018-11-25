@@ -61,14 +61,14 @@ h3 {
     background-image: linear-gradient(to bottom, #FFFFFF 0%, #F7F7F7 0%, #FFFFFF 100%);
     border: 1px solid lightgray;
     padding: 5px;
-    width: 30%;
+    width: 280px;
 }
 
 .content textarea {
     background-image: linear-gradient(to bottom, #FFFFFF 0%, #F7F7F7 0%, #FFFFFF 100%);
     border: 1px solid lightgray;
     padding: 5px;
-    width: 30%;
+    width: 280px;
     height: 150px;
     resize: none;
 }
