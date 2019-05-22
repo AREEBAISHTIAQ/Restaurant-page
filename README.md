@@ -2,4 +2,4 @@
 
 This is my Restaurant page project from "The Odin Project" curriculum.
 
-[Live preview](https://areebaishtiaq.github.io/Restaurant-page)
+[Live preview](https://ribaishtiaq.github.io/Restaurant-page)
